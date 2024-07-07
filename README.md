@@ -1,5 +1,5 @@
 
-# Find Your Hat Game (Codecademy Challenge)
+# Find Your Hat Game
 
 A terminal-based adventure game where you navigate a field to find your hat (`^`) while avoiding holes (`O`). You can only move to unvisited tiles (`░`). Re-visiting tiles results in an invalid move.
 
@@ -13,7 +13,7 @@ A terminal-based adventure game where you navigate a field to find your hat (`^`
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/goksu-cikit/find-your-hat-game.git
+   git clone https://github.com/your-username/find-your-hat-game.git
    cd find-your-hat-game
    ```
 
@@ -26,7 +26,7 @@ A terminal-based adventure game where you navigate a field to find your hat (`^`
 
 To start the game, run:
 ```bash
-node app.js
+node main.js
 ```
 
 ## Game Controls
